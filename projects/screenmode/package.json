@@ -2,6 +2,10 @@
   "name": "asb-screenmode",
   "description": "Screen mode observables",
   "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alejandroSuch/asb-screenmode/"
+  },
   "keywords": [
     "Angular",
     "Library"
